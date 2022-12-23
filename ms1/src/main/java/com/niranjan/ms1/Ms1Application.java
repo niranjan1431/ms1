@@ -11,7 +11,7 @@ public class Ms1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Ms1Application.class, args);
-		System.out.println("project started by me and nandini");
+		System.out.println("project started by me and nandi ni");
 	}
 
 }
